@@ -1,7 +1,7 @@
 # Semi-Global Matching (4-direction)
 A Matlab implementation of Semi-Global Matching (SGM) for stereo matching.
 It uses the 4-direction version of the algorithm with a small improvement for better results.
-The improvement is that in the calculation of the total cost, the matching cost does not add up (normally it had to add up once for each direction).
+The improvement is that in the calculation of the total cost, the matching cost does not add up. Normally it had to add up four times (once for each direction).
 
 ## Input Image
 The Tsukuba stereo image that used as input.
