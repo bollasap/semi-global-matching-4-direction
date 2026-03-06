@@ -1,9 +1,8 @@
 # Semi-Global Matching (4-direction)
 
 > **Repository Moved**  
-> This repository has been moved to a new location and is no longer maintained here.  
-> Please visit the new repository: [Semi-Global Matching (SGM-4, SGM-8, SGM-16)](https://github.com/aposb/stereo-matching-using-semi-global-matching)  
-> This repository is archived and kept for reference only.
+> This project has been merged into [Semi-Global Matching (SGM-4, SGM-8, SGM-16)](https://github.com/aposb/stereo-matching-using-semi-global-matching).  
+> The new repository contains the latest code, documentation, and updates.
 
 A Matlab implementation of Semi-Global Matching (SGM) for stereo matching.
 It uses the 4-direction version of the algorithm with a small improvement for better results.
